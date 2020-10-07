@@ -1,4 +1,5 @@
-Denne appen fungerer som en youtube søkemotor. Laget med React av Najim Zaouaghi
+Denne appen fungerer som en youtube søkemotor. Laget med React av Najim Zaouaghi.
+I denne versjonen av søkemotoren så ville jeg rulle ut appen med Netlify
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
